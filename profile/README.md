@@ -11,4 +11,4 @@ We have small development team, but each of them is good at their work.
  - We are trying to make our products open-sourced as much as possible.
 
 ## Intereseted to work with us?
-Join the [Neutronia Discord](https://discord.neutronia.io) and make a ticket with your GitHub profile.
+Join the [Neutronia Discord](https://neutronia.io/discord) and make a ticket with your GitHub profile.
