@@ -12,3 +12,6 @@ We have small development team, but each of them is good at their work.
 
 ## Intereseted to work with us?
 Join the [Neutronia Discord](https://neutronia.io/discord) and make a ticket with your GitHub profile.
+
+## Server Status  
+<a href="https://minecraftpocket-servers.com/server/116722/"><img src="https://minecraftpocket-servers.com/server/116722/banners/banner-1.png" border="0"></a>
